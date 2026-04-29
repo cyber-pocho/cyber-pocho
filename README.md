@@ -1,14 +1,14 @@
 ### julian alfonso
 
-physics @ unal bogotá — writing code from first principles. i'm a physics major who likes numbers, analysis and data. i'm always looking to find a pattern where no one can see it. 
+physics @ unal bogotá. i'm a physics major who likes numbers, analysis and data. i'm always looking to find a pattern where no one can see it. 
 
 ---
 
-scientific computing | data science | quantitative analysis | stochastic processes 
+My main focus is in Deep Learning and Computational Physics.  
 
 ```python
 stack = ["Python", "C++23", "NumPy", "Pandas, "SciPy", "PyTorch", "Tensorflow"]
-currently working on = ["data science", "stochastic processes"]
+currently working on = ["TNN", "Deep Learning", "HPC"]
 ```
 
 ---
