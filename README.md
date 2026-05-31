@@ -1,24 +1,31 @@
-### julian alfonso
+### julián alfonso
+physics @ unal bogotá — i like finding patterns where no one else is looking.
 
-physics @ unal bogotá. i'm a physics major who likes numbers, analysis and data. i'm always looking to find a pattern where no one can see it. 
+my focus is deep learning and computational physics. i build things that run on real data and produce results i can defend mathematically.
 
 ---
 
-My main focus is in Deep Learning and Computational Physics.  
-
 ```python
-stack = ["Python", "C++23", "NumPy", "Pandas, "SciPy", "PyTorch", "Tensorflow"]
-currently working on = ["TNN", "Deep Learning", "HPC"]
+stack  = ["Python", "C++23", "PyTorch", "JAX", "NumPy", "Pandas", "SciPy"]
+doing  = ["Transformer architectures", "physics-informed ML", "scientific computing"]
 ```
 
 ---
 
-**cool things I did**
+**things i built**
 
-[`modern_physics`](https://github.com/cyber-pocho/modern_physics) — zeeman effect, rydberg constant, gamma-ray attenuation from experimental data  
-[`pinn-black-scholes`](https://github.com/cyber-pocho/pinn-black-scholes) — solving the B-S PDE with physics-informed neural networks  
-[`numerical-methods-cpp`](https://github.com/cyber-pocho/numerical-methods-cpp) — ODE solvers, quadrature, root finding — built from scratch  
+[`stat_aware_pred`](https://github.com/cyber-pocho/stat_aware_pred) — 1D Transformer for lithology classification from well logs. focal loss, spatial CV, deep ensemble uncertainty. built with a geologist.
+
+[`exp_thermodynamics`](https://github.com/cyber-pocho/exp_thermodynamics) — six experimental physics analyses with real sensor data, non-linear fitting, and calibrated uncertainty propagation.
+
+[`MoM_Patch_Dielectric_Interface`](https://github.com/cyber-pocho/MoM_Patch_Dielectric_Interface) — method of moments EM solver in C. residuals below 10⁻¹⁵.
+
+[`pinn-black-scholes`](https://github.com/cyber-pocho/pinn-black-scholes) — Black-Scholes PDE solved with physics-informed neural networks.
+
+[`HW_NAS`](https://github.com/cyber-pocho/HW_NAS) — hardware-aware neural architecture search with differentiable latency constraints.
 
 ---
-****if you wanna find me****
-[linkedin](https://www.linkedin.com/in/julian-alfonso-5583b236a/) · jualfonsog@unal.edu.co · bogotá, colombia
+
+**find me**
+
+[linkedin](https://www.linkedin.com/in/jualfonsog/) · juliandavid.alfonso.gomez@gmail.com · bogotá, colombia (UTC-5)
